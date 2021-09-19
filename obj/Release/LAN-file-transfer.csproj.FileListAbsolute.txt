@@ -1,0 +1,10 @@
+C:\Users\老G\Desktop\大文件传输\LAN-file-transfer\bin\Release\LAN-file-transfer.exe.config
+C:\Users\老G\Desktop\大文件传输\LAN-file-transfer\bin\Release\LAN-file-transfer.exe
+C:\Users\老G\Desktop\大文件传输\LAN-file-transfer\bin\Release\LAN-file-transfer.pdb
+C:\Users\老G\Desktop\大文件传输\LAN-file-transfer\obj\Release\LAN_file_transfer.Form1.resources
+C:\Users\老G\Desktop\大文件传输\LAN-file-transfer\obj\Release\LAN_file_transfer.Properties.Resources.resources
+C:\Users\老G\Desktop\大文件传输\LAN-file-transfer\obj\Release\LAN-file-transfer.csproj.GenerateResource.cache
+C:\Users\老G\Desktop\大文件传输\LAN-file-transfer\obj\Release\LAN-file-transfer.csproj.CoreCompileInputs.cache
+C:\Users\老G\Desktop\大文件传输\LAN-file-transfer\obj\Release\LAN-file-transfer.exe
+C:\Users\老G\Desktop\大文件传输\LAN-file-transfer\obj\Release\LAN-file-transfer.pdb
+C:\Users\老G\Desktop\大文件传输\LAN-file-transfer\obj\Release\LAN-file-transfer.csproj.AssemblyReference.cache
